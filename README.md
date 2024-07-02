@@ -5,8 +5,9 @@ Welcome to my Github profile! I am currently learning Python and JavaScript. I m
 ## About Me
 ```cpp
 class Dorjee{
-public:
+private:
   int age = 19;
+public:
   string school = "University of Colorado at Boulder";
   vector<string> personality = {"funny", "funny-looking", "nerd"};
   vector<string> hobbies = {"coding!", "dancing", "hiking", "reading", "anime", "music", "exercise"};
