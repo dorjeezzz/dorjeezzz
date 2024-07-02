@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Dorjee
+
+Welcome to my Github profile! I am currently learning Python and JavaScript. I main C++
+
+## About Me
+```cpp
+class Dorjee{
+public:
+  int age = 19;
+  string school = "University of Colorado at Boulder";
+  vector<string> personality = {"funny", "funny-looking", "nerd"};
+  vector<string> hobbies = {"coding!", "dancing", "hiking", "reading", "anime", "music", "exercise"};
+};
+```
+I picked up programming in high school because it was the only weighted elective, yet I quickly found myself to enjoy the ability to create anything I wanted. I am currently a rising third year looking to improve my skillset and land an internship at big tech for Summer 2025. 
 
 <!--
 **dorjeezzz/dorjeezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
