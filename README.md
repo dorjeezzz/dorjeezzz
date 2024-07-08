@@ -15,9 +15,9 @@ public:
 ```
 I picked up programming in high school because it was the only weighted elective, yet I quickly found myself to enjoy the ability to create anything I wanted. I am currently a rising third year looking to improve my skillset and land an internship at big tech for Summer 2025. 
 
-<div style="text-align: center; margin-top: 20px; background-color: "blue">
+<div style="text-align: center; margin-top: 20px">
 <h2>Random quote I like</h2>
-<div>"The circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are." - Mewtwo</div>
+<p style="color: #1e1e1e">"The circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are." - Mewtwo</p>
 
 <!--
 **dorjeezzz/dorjeezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
