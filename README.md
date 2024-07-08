@@ -15,16 +15,16 @@ public:
 ```
 I picked up programming in high school because it was the only weighted elective, yet I quickly found myself to enjoy the ability to create anything I wanted. I am currently a rising third year looking to improve my skillset and land an internship at big tech for Summer 2025. 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div align="center";>
   <div style="background-color: #050F2C; color: #00ADFE; padding: 20px; border-radius: 10px; width: 60%; max-width: 600px; text-align: center;">
     <h2 style="font-family: 'Poppins', Arial, sans-serif; font-size: 24px;">🖋️ Random Dev Quote</h2>
     <p style="font-family: 'Poppins', Arial, sans-serif; font-style: italic; font-size: 18px; color: #00ADFE;">
       <span style="font-size: 24px; color: #26BB85;">“</span>
-      People under pressure don’t work better; they just work faster.
+        The circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are.
       <span style="font-size: 24px; color: #26BB85;">”</span>
     </p>
     <p style="font-family: 'Poppins', Arial, sans-serif; font-size: 16px; color: #FEFEFE; text-align: right;">
-      - Tom DeMarco
+      - Mewtwo
     </p>
   </div>
 </div>
