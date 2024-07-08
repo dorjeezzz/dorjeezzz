@@ -17,7 +17,7 @@ I picked up programming in high school because it was the only weighted elective
 
 <div style="text-align: center; margin-top: 20px">
 <h2>Random quote I like</h2>
-"The circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are." - Mewtwo
+<div>"The circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are." - Mewtwo</div>
 
 <!--
 **dorjeezzz/dorjeezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
