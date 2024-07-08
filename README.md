@@ -15,13 +15,16 @@ public:
 ```
 I picked up programming in high school because it was the only weighted elective, yet I quickly found myself to enjoy the ability to create anything I wanted. I am currently a rising third year looking to improve my skillset and land an internship at big tech for Summer 2025. 
 
-
-<div style="font-family: 'Poppins', Arial, Helvetica, sans-serif; padding: 20px; width: 600px; border: 1px solid rgba(0, 0, 0, 0.2); border-radius: 10px; background-color: #050F2C; color: #00ADFE;">
-  <h3 style="font-size: 19px; margin-bottom: 5px; font-weight: 500; font-style: oblique; color: #00ADFE;">
-    <span style="color: #26BB85; font-size: 25px;">“</span> The circumstances of one's birth are irrelevant; it is what you do with the gift of life that determines who you are.
-    <span style="color: #26BB85; font-size: 25px;">”</span>
-  </h3>
-  <p style="font-style: italic; padding: 5px; text-align: right; color: #FEFEFE;">- Mewtwo</p>
+<div style="text-align: center; margin-top: 20px; background-color: #050F2C; color: #00ADFE; padding: 20px; border-radius: 10px; width: 600px; margin: auto;">
+  <h2 style="font-family: 'Poppins', Arial, sans-serif; font-size: 24px;">🖋️ Random Dev Quote</h2>
+  <p style="font-family: 'Poppins', Arial, sans-serif; font-style: italic; font-size: 18px; margin-top: 10px; margin-bottom: 10px;">
+    <span style="font-size: 24px; color: #26BB85;">“</span>
+    People under pressure don’t work better; they just work faster.
+    <span style="font-size: 24px; color: #26BB85;">”</span>
+  </p>
+  <p style="font-family: 'Poppins', Arial, sans-serif; font-size: 16px; color: #FEFEFE; text-align: right;">
+    - Tom DeMarco
+  </p>
 </div>
 
 
