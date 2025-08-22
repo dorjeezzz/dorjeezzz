@@ -6,7 +6,7 @@ Welcome to my Github profile! I am currently learning Python and JavaScript. I m
 ```cpp
 class Dorjee{
 private:
-  int age = 19;
+  int happiness = INT_MAX; //:)
 public:
   string school = "University of Colorado at Boulder";
   vector<string> personality = {"funny", "funny-looking", "nerd"};
