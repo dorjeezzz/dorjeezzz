@@ -1,6 +1,6 @@
 # Hi there! I'm Dorjee
 
-Welcome to my Github profile! I am currently learning Python and JavaScript. I main C++
+Welcome to my Github profile! I main C++ but have worked closely with Python, Java, and JavaScript
 
 ## About Me
 ```cpp
