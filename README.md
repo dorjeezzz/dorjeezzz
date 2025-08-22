@@ -13,7 +13,6 @@ public:
   vector<string> hobbies = {"coding!", "dancing", "matcha (for real)", "reading", "anime", "music", "exercise"};
 };
 ```
-I picked up programming in high school because it was the only weighted elective, yet I quickly found myself to enjoy the ability to create anything I wanted. I am currently a rising third year looking to improve my skillset and land an internship at big tech for Summer 2025. 
 
 <h2>Random Quote</h2>
 <div align="center";>
